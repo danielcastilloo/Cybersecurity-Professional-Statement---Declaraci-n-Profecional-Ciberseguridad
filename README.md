@@ -29,7 +29,7 @@ Mi declaracion profecional es mi compromiso en ciberseguridad en los caules dest
 
 📬 Contacto
 
-    👤 Nombre: Luis Antonio Canales Guerrero
+    👤 Nombre: Daniel Alfonso Castillo Torres
     🛡️ Campo: Ciberseguridad
     🎓 Estado: En formación profesional
 
